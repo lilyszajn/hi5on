@@ -12,7 +12,7 @@ PostData pd = new PostData(); // I invented this class... it would be the name o
 
 // Fill in your own apiKey and secretKey values.
 String apiKey = "2794b427c3570f8b21835f18368f407a";
-String secretKey = "f5c820e6ca8c13d3";
+String secretKey = "secretKey";
 
 String url = "www.itpcakemixcom/project/HI5SON!!?format=raw";
 
