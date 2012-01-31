@@ -14,6 +14,7 @@ PostData pd = new PostData(); // I invented this class... it would be the name o
 String apiKey = "2794b427c3570f8b21835f18368f407a";
 String secretKey = "secretKey";
 
+//any url following format "www.itpcakemix.com/project/PROJECTNAME?format=raw";
 String url = "www.itpcakemixcom/project/HI5SON!!?format=raw";
 
 String vars[] = { "photoid", "project" }; 
